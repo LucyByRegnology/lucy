@@ -9,7 +9,6 @@ Third-party and open-source software typically has one or more licenses assigned
 ![Process Flow of Lucy](res/processFlow.png)
 
 ## Features
-- Track usage of components in projects
 - Manage licenses with risk and requirements
 - Supports standardized SPDX ID's
 - Supports different uploads:
